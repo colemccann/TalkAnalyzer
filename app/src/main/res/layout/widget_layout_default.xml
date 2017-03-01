@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:gravity="center_vertical"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:id="@+id/widget_textview"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textAlignment="center"
+            android:background="@android:drawable/editbox_dropdown_dark_frame"
+            android:textColor="@color/cardview_light_background"
+            tools:text="Talks Analyzed: 21" />
+
+        <ImageButton
+            android:layout_height="match_parent"
+            android:src="@drawable/add_talk_button_image"
+            android:id="@+id/widget_button"
+            android:contentDescription="@string/add_talk_button"
+            android:background="@android:drawable/editbox_dropdown_dark_frame"
+            android:layout_width="60dp"/>
+
+    </LinearLayout>
+</FrameLayout>

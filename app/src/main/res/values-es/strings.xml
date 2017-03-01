@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TalkAnalyzer</string>
+    <string name="action_settings">Ajustes</string>
+
+    <string name="title_activity_talks">Negociaciones</string>
+
+    <string name="navigation_drawer_open">Abrir el cajón de navegación</string>
+    <string name="navigation_drawer_close">Cerrar el cajón de navegación</string>
+    <string name="title_activity_talks_actvity">TalksActvity</string>
+    <string name="talk_analyzer">Analizador de conversaciones</string>
+    <string name="by_cole">Por Cole</string>
+    <string name="settings">Ajustes</string>
+    <string name="statistics">Estadística</string>
+    <string name="navigation_drawer_imageview">navigation_drawer_imageView</string>
+    <string name="title">Título</string>
+    <string name="speaker">Altavoz</string>
+    <string name="timer">Minutero</string>
+    <string name="scriptures">Escrituras:</string>
+    <string name="illustrations">Ilustraciones:</string>
+    <string name="talk">Hablar</string>
+    <string name="num_scrip_read">Número de Escrituras leídas:</string>
+    <string name="num_illus_used">Número de ilustraciones utilizadas:</string>
+    <string name="notes">Notas</string>
+    <string name="overall_timing">Tiempo total:</string>
+    <string name="number_of_scriptures">Número de escrituras:</string>
+    <string name="time_spent_on_scriptures">Tiempo dedicado a las escrituras:</string>
+    <string name="number_of_illustrations">Número de ilustraciones:</string>
+    <string name="time_spent_on_illustrations">Tiempo dedicado a las ilustraciones:</string>
+    <string name="time_allocation">Asignación de tiempo</string>
+    <string name="home">Casa</string>
+    <string name="total_talks">Número total de pláticas analizadas:</string>
+    <string name="average_timing">Tiempo promedio:</string>
+    <string name="average_num_scriptures">"Número promedio de escrituras:"</string>
+    <string name="average_scripture_timing">Tiempo promedio dedicado a las escrituras:</string>
+    <string name="average_num_illustrations">"Número promedio de ilustraciones:"</string>
+    <string name="average_time_illustrations">Tiempo promedio dedicado a las ilustraciones:</string>
+    <string name="talk_detail_by">por:</string>
+    <string name="new_talk">Nueva charla</string>
+    <string name="talk_details">Detalles de la charla</string>
+    <string name="saved_talks">Conversaciones guardadas</string>
+    <string name="temp_title">Does Your Hope Rest on Science or the Bible?</string>
+    <string name="temp_speaker">Cole McCann</string>
+    <string name="temp_date">01/01/2017</string>
+    <string name="temp_overall_timing">30:00</string>
+    <string name="temp_num_scriptures">8</string>
+    <string name="temp_num_illustrations">4</string>
+    <string name="unknown_speaker">Desconocido</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Borrar</string>
+    <string name="zero">0</string>
+    <string name="talk_timer">Temporizador de conversación</string>
+    <string name="done">Hecho</string>
+    <string name="frag_2_title">%1$s por: %2$s</string>
+    <string name="talk_saved">Hablar guardado</string>
+
+    <string name="select_talk_type">Select Talk Type</string>
+    <string name="public_type">Public</string>
+    <string name="other_type">Other</string>
+</resources>
